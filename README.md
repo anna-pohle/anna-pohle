@@ -19,13 +19,14 @@ I'm currently transitioning into **Quality Assurance (QA)** with [Masterschool](
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) (basic queries)
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) (beginner level)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) (beginner level)
-- ✅ Test case design & manual testing
+- ✅ manual testing
 - 🌀 Agile methods (Scrum, Kanban – in training)
 
 ---
 
 ## 🚀 Currently Learning
 
+- Test case design
 - Test automation with **Python & Selenium**
 - Testing strategies & exploratory testing
 - The role of QA in **agile teams**
@@ -35,7 +36,7 @@ I'm currently transitioning into **Quality Assurance (QA)** with [Masterschool](
 
 ## 🤝 Let’s Connect
 
-[[LinkedIn](https://www.linkedin.com/in/anna-pohle/)]  
+[LinkedIn](https://www.linkedin.com/in/anna-pohle/)  
 
 _“Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin_
 
