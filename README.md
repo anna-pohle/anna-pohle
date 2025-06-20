@@ -34,35 +34,8 @@ I'm currently transitioning into **Quality Assurance (QA)** and gaining hands-on
 
 ## 🤝 Let’s Connect
 
-I’m always happy to connect with people who care about:
-
-- Quality and testing in tech
-- Clear communication across disciplines
-- Good teamwork and collaboration
-- Bridging the gap between users and code
-
-📬 **Get in touch:**  
 [[LinkedIn](https://www.linkedin.com/in/anna-pohle/)]  
 
 _“Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin_
 
 ---
-
-
-
-
-<!--
-**anna-pohle/anna-pohle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🧪 **Selenium** (early experience with automation)
--->
