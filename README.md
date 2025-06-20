@@ -16,7 +16,6 @@ I'm currently transitioning into **Quality Assurance (QA)** and gaining hands-on
 ## 🧰 Tech Stack & Tools
 
 - 🐍 **Python** (foundations + test automation)
-- 🧪 **Selenium** (early experience with automation)
 - 🐘 **SQL** (basic queries)
 - 🌐 **HTML & CSS** (beginner level)
 - ✅ Test case design & manual testing
@@ -65,4 +64,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🧪 **Selenium** (early experience with automation)
 -->
