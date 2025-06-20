@@ -9,7 +9,7 @@ Passionate about language, structure, and quality — with a love for thoughtful
 
 With a Master's degree in linguistics and a background in **research**, **team leadership**, and **production planning**, I bring a keen eye for detail and a strong sense of structure.
 
-I'm currently transitioning into **Quality Assurance (QA)** and gaining hands-on experience in **manual testing** and **test automation with Python and Selenium**. I thrive in teams that value clarity, curiosity, and user-focused thinking.
+I'm currently transitioning into **Quality Assurance (QA)** with [Masterschool](https://de.masterschool.com/domains/qa-engineering-14-months/) and gaining hands-on experience in **manual testing** and **test automation with Python and Selenium**. I thrive in teams that value clarity, curiosity, and user-focused thinking.
 
 ---
 
