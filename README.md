@@ -55,6 +55,6 @@ I enjoy designing **robust test scripts** using **CSS selectors, XPath, and sema
 
 [LinkedIn](https://www.linkedin.com/in/anna-pohle/)  
 
-_“Quality is never an accident; it is always the result of high intention, sincere effort, intelligent direction and skillful execution” – John Ruskin_
+_”A tester is a translator between the developer and the customer" – James Whittaker_
 
 ---
