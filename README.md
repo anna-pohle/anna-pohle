@@ -16,31 +16,38 @@ I enjoy designing **robust test scripts** using **CSS selectors, XPath, and sema
 ---
 ## 🧰 Tech Stack & Tools
 <p align="center">
+  <!-- Programmiersprachen & Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60" alt="GitHub" />
+
+  <!-- Test Automation Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="60" alt="Selenium" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="60" alt="Playwright" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" height="60" alt="XPath/XML" />
+
+  <!-- Hilfstools / Versionierung / Datenbanken -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="SQLite" />
 </p>
 
-- 🐍 Python (foundations + test automation)
+- 🐍 Python (foundations + test automation)  
 - 🌐 HTML5 & CSS3 (beginner level)
-- ✅ Manual testing
-- 🧪 Test automation with **Selenium** and **Playwright**
-- 🔎 Locators: CSS selectors, XPath, semantic locators
+- ✅ Manual & exploratory testing
+- 📊 Test automation with **Selenium** & **Playwright**  
+- 🔎 Locators: CSS selectors, XPath, semantic locators  
 - 🌀 Agile methods (Scrum, Kanban – in training)
 
 ---
 
-## 🚀 Currently Learning
+## 🎯 Currently Learning
 
-- Test case design
-- Test automation with **Python, Selenium, and Playwright**
-- Writing maintainable automation scripts using locators efficiently
-- Testing strategies & exploratory testing
-- The role of QA in **agile teams**
+- Writing maintainable automation scripts with locators efficiently  
+- Test automation strategies & techniques  
+- Preparing for **ISTQB/CTFL certification**  
 - Documentation & QA communication practices
+
 
 ---
 
