@@ -48,6 +48,6 @@ I enjoy designing **robust test scripts** using **CSS selectors, XPath, and sema
 
 [LinkedIn](https://www.linkedin.com/in/anna-pohle/)  
 
-_“Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin_
+_“Quality is never an accident; it is always the result of high intention, sincere effort, intelligent direction and skillful execution” – John Ruskin_
 
 ---
